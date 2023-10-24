@@ -1,0 +1,7 @@
+Flow ID,Description,Test Steps,Flow Priority
+3,Verify Navigation to Contact Step1 Page is Successful,"step 1: Navigate to Page contact step1
+step 2: Add visual checkpoint at Page contact step1",High
+2,Verify Navigation to Contact Page is Successful,"step 1: Navigate to Page contact
+step 2: Add visual checkpoint at Page contact",High
+1,Verify Navigation to Home Page is Successful,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",High
