@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page contact'
+'step 1: Navigate to Page dvc-home tax-form1 tax-form2'
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '')
 
-'step 2: Add visual checkpoint at Page contact'
+'step 2: Add visual checkpoint at Page dvc-home tax-form1 tax-form2'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Navigation to Contact Page is Successful_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Successful Navigation to Tax Form2 in DVC Home Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

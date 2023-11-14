@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page dvc-home tax-form1",
+        "step 2: At Page dvc-home tax-form1 input on input combo box demo",
+        "step 3: At Page dvc-home tax-form1 click on div object",
+        "step 4: Add visual checkpoint at Page dvc-home tax-form1"
+    ]
+}
